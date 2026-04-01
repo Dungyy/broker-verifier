@@ -15,7 +15,7 @@ Open http://localhost:3000
 
 ## FMCSA API Key (free, takes 2 min)
 
-1. Go to https://mobile.fmcsa.dot.gov/developer/home.page
+1. Go to [https://mobile.fmcsa.dot.gov/developer/home.page](https://mobile.fmcsa.dot.gov/QCDevsite/docs/apiAccess)
 2. Register — key is issued instantly
 3. Add to .env.local:
    FMCSA_API_KEY=your_key_here
